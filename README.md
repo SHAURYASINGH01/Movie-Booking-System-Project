@@ -1,4 +1,4 @@
-# Python Movie Booking System
+# Movie Booking System
 ![R](https://github.com/user-attachments/assets/1c74b8f8-105f-473a-9c29-660be894cb54)
 
 ## Overview
