@@ -19,4 +19,8 @@ Welcome to the Python Movie Booking System! This project is designed to provide 
 1. Clone the repository:
    ```bash
    git clone https://github.com/SHAURYASINGH01/MOVIE-BOOKING-SYSTEM.git
-
+   ```
+ 2. Console
+    ```bash
+    python3- MovieBooking.py
+    ```
