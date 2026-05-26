@@ -1,8 +1,5 @@
 ## MOVIE-BOOKING-SYSTEM
 
-=======
-# Movie Booking System Using Python
-
 ![R](https://github.com/user-attachments/assets/1c74b8f8-105f-473a-9c29-660be894cb54)
 
 ## Overview
@@ -33,9 +30,9 @@ Welcome to the Python Movie Booking System! This project is designed to provide 
    
    ```bash
    pip install -r requirements.txt
-   ``
+   ```
    
-4. Console / run
+3. Console / Run
     ```bash
     python3- MovieBooking.py
     ```
